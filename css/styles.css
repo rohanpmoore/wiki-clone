@@ -35,3 +35,22 @@
   font-family: sans-serif;
   color: #000;
 }
+
+.purple-header{
+  background-color: #d1a4d6;
+  font-weight: bold;
+  border: 1px solid grey;
+  font-size: 14pt;
+  font-family: sans-serif;
+  color: #000;
+}
+
+.type3{
+  float:left;
+  width:300px;
+  height:300px;
+}
+
+.crown-text{
+  text-align: center;
+}
