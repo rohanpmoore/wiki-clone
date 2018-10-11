@@ -26,3 +26,12 @@
   width:100px;
   height:100px;
 }
+
+.blue-header {
+  background-color: lightblue;
+  font-weight: bold;
+  border: 1px solid grey;
+  font-size: 14pt;
+  font-family: sans-serif;
+  color: #000;
+}
