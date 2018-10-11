@@ -5,3 +5,24 @@
 .blue {
   color: blue;
 }
+
+.green-header {
+  background-color: #9ce2a2;
+  font-weight: bold;
+  border: 1px solid grey;
+  font-size: 14pt;
+  font-family: sans-serif;
+  color: #000;
+}
+
+.type1{
+  float:left;
+  width:100px;
+  height:100px;
+}
+
+.type2{
+  float:right;
+  width:100px;
+  height:100px;
+}
