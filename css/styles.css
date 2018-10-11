@@ -87,3 +87,12 @@ body {
     overflow: hidden;
     width: 100%;
 }
+
+.pagelogo {
+  width:100px;
+  height:100px;
+}
+
+/* .sidebar {
+  float: left;
+} */
