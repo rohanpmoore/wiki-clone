@@ -82,3 +82,8 @@ body {
   float: left;
   margin: 4px;
 }
+
+.topnav {
+    overflow: hidden;
+    width: 100%;
+}
